@@ -1,0 +1,106 @@
+body {
+	font-family: sans-serif;
+}
+nav {
+	background-color: #FFB4B0;
+	border: 2px solid black;
+	margin:1%;
+	
+}
+
+nav li {
+
+	display: inline;
+}
+nav li:nth-of-type(1){
+	padding-left: 1%
+}
+
+
+.sort {
+	height: 30em;
+	margin-top: 1%;
+	margin-left: 1%;
+	float: left;
+	border: 2px solid black;
+	max-width: 20%;
+	background-color: #4DD7FA;
+
+	
+}
+
+p {
+	margin:; 2em;
+}
+#songList {
+	display: inline;
+	height: 30em;
+	border: 2px solid black;
+	padding-left: 2%;
+	margin: 1%;
+	margin-left: none;
+	float: right;
+	background-color: #FEFAC0;
+	width:81%;
+	
+
+}
+#songList li {
+	display: inline;
+}
+.genreChecks{
+	display: inline-block;
+}
+
+h1 {
+	font-weight: normal;
+	color: #785616;
+}
+
+
+.button {
+	font-family: sans-serif;
+	border-radius: 4px;
+	height: 2em;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 2px solid black;
+	font-size: 1em;
+}
+
+section {
+	margin: 15px 15px;
+}
+
+
+ul {
+	padding: 0;
+}
+
+.blue li{
+	display: flex;
+}
+
+.genreLeft {
+	margin-top: 0;
+	display: inline;
+	float: left;
+}
+.genreRight {
+	margin-top: 0;
+	display: inline;
+	float: right;
+}
+
+
+section {
+	padding-top:0;
+}
+
+
+
+
+
